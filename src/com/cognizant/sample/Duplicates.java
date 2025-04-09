@@ -11,7 +11,7 @@ public class Duplicates
         int b = 1;
         int c = 0;
         int sum = 0;
-        while (a <= 100)
+        while (a <= 100)j
         {
             sum = sum+a;
             c = a + b;
