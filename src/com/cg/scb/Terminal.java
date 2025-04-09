@@ -2,5 +2,8 @@ package com.cg.scb;
 
 public class Terminal
 {
-    ///jkjuykuyfky
+    public static void main(String[] args)
+    {
+        System.out.println("hello");
+    }
 }
