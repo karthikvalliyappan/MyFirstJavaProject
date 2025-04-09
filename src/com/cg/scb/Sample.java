@@ -6,5 +6,6 @@ public class Sample
     {
         System.out.println("hello");
         //this is sample
+        // this is sample for terminal demo
     }
 }
